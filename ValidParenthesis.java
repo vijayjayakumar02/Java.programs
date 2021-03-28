@@ -1,6 +1,4 @@
-import java.util.HashMap;
-import java.util.Scanner;
-import java.util.Stack;
+import java.util.*;
 
 public class ValidParenthesis {
     public static boolean validParan(String s) {
