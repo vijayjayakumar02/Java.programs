@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class sample {
+public class BinaryCount {
     public static int binaryCount(int n) {
         int count = 0;
         while (n > 0) {
